@@ -1,0 +1,13 @@
+﻿  HelloWorldThread.cpp
+  IETThread.cpp
+  main.cpp
+D:\Programs\GDPARCM\GDPARCM Lessons\GDPARCM Lessons\main.cpp(21,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Programs\GDPARCM\GDPARCM Lessons\GDPARCM Lessons\main.cpp(23,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Programs\GDPARCM\GDPARCM Lessons\GDPARCM Lessons\main.cpp(33,21): warning C4018: '<': signed/unsigned mismatch
+D:\Programs\GDPARCM\GDPARCM Lessons\GDPARCM Lessons\main.cpp(43,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programs\GDPARCM\GDPARCM Lessons\GDPARCM Lessons\main.cpp(66,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Programs\GDPARCM\GDPARCM Lessons\GDPARCM Lessons\main.cpp(71,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  NumberTestThread.cpp
+D:\Programs\GDPARCM\GDPARCM Lessons\GDPARCM Lessons\NumberTestThread.cpp(23,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  GDPARCM Lessons.vcxproj -> D:\Programs\GDPARCM\GDPARCM Lessons\Debug\GDPARCM Lessons.exe
